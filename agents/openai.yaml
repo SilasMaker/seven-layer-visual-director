@@ -1,0 +1,4 @@
+interface:
+  display_name: "七层视觉提示词导演"
+  short_description: "用原创七层结构编排图片与视频提示词，检查缺失、冲突与连续性"
+  default_prompt: "使用 $seven-layer-visual-director 先给我对应模式的七层空白模板。"
